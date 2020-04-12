@@ -4,8 +4,8 @@
   "description": "Real time chat app with rooms",
   "main": "server.js",
   "scripts": {
-    "start": "node server",
-    "dev": "nodemon server"
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
   },
   "author": "Skerdi Berberi",
   "license": "MIT",
